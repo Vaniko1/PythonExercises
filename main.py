@@ -18,6 +18,8 @@
 # print(obj1.area())
 # print(obj1.perimeter())
 #
+# # # # # # # # # # # # # # # # # # # # # #
+# სავარჯიშო - 2 (მარტივი)
 # class Car:
 #
 #     def __init__(self, color, model, makeYear, fuelType, price):
@@ -30,8 +32,7 @@
 #
 #     def sell(self):
 #         return f'You sold this car for {self.price} dollars'
-# # # # # # # # # # # # # # # # # # # # # #
-# სავარჯიშო - 2 (მარტივი)
+# 
 # car1 = Car('red', 'Mercedes', 2015, 'Gas', 10000)
 # print(car1.color)
 # print(car1.model)
