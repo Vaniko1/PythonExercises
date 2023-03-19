@@ -1,3 +1,3 @@
 # _PythonExercises_
 Python Homework N1
-url(https://developers.redhat.com/sites/default/files/styles/article_feature/public/Python-01%20%282%29.png?itok=TEVIQBQo)
+![image](![image](https://user-images.githubusercontent.com/115501603/226164248-08533cce-c190-4783-9192-7a9af681be0f.png))
